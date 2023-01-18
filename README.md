@@ -2,6 +2,11 @@
 
 This template should help get you started developing with Svelte in Vite.
 
+## Preview
+
+<img width="960" alt="Screenshot 2023-01-19 020743" src="https://user-images.githubusercontent.com/116789799/213289482-11538562-fc46-4577-8b53-111b72cd7c2d.png">
+
+
 ## Recommended IDE Setup
 
 [VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
